@@ -42,18 +42,15 @@ https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z
 1️⃣ Overall Sales Dashboard (Full Year Overview)
 <img width="1287" height="710" alt="Screenshot 2026-02-27 084505" src="https://github.com/user-attachments/assets/f79ec3cf-cf5f-48cd-8ba1-3e790b2cbd25" />
 This dashboard provides a comprehensive overview of pizza sales performance from January 2015 to December 2015.
-
-🔎 Key Insights Displayed:
+Key Insights Displayed
 Total Revenue: 581.91K
 Average Order Value: 38.29
 Total Orders: 35,281
 Total Pizzas Sold: 15,197
 Average Pizzas per Order: 2.32
-
-📈 Visual Analysis Included:
+Visual Analysis Included:
 Daily trend of total orders (Highest on Friday & Saturday evenings)
 Monthly sales trend (Peak performance in July & January)
-
 Percentage sales by:
 Pizza Category (Classic, Supreme, Chicken, Veggie)
 Pizza Size (Large contributes highest revenue)
@@ -67,14 +64,14 @@ This dashboard helps identify peak sales periods, customer ordering behavior, an
 
 This dashboard highlights sales insights for a selected period (March–December 2015).
 
-📈 Includes:
+Includes:
 Daily order trend visualization
 Monthly order trend visualization
 Sales contribution by category (donut chart)
 Sales contribution by pizza size
 Total pizzas sold by category
 
-💡 Key Observations:
+Key Observations:
 Classic category contributes highest overall sales
 Large size pizzas dominate revenue share
 Weekend evenings generate peak orders
@@ -87,17 +84,17 @@ This view helps stakeholders understand both macro-level and micro-level sales d
 
 This view demonstrates interactive filtering by selecting the Classic Pizza Category and a specific date range.
 
-🔝 Top 5 Analysis:
+Top 5 Analysis:
 Top 5 pizzas by Revenue
 Top 5 pizzas by Quantity Sold
 Top 5 pizzas by Total Orders
 
-🔻 Bottom 5 Analysis:
+Bottom 5 Analysis:
 Bottom 5 pizzas by Revenue
 Bottom 5 pizzas by Quantity Sold
 Bottom 5 pizzas by Total Orders
 
-💡 Key Insight:
+Key Insight:
 This page enables performance comparison within a single category, helping identify:
 Best-selling products
 Underperforming pizzas
@@ -111,12 +108,12 @@ It supports data-driven menu optimization decisions.
 
 This dashboard shows sales performance for a custom selected date range (May–July 2015).
 
-📊 Features Demonstrated:
+Features Demonstrated:
 Dynamic KPI updates based on slicer selection
 Top 5 & Bottom 5 pizzas recalculated automatically
 Revenue, Quantity, and Order-based ranking
 
-💡 Key Insight:
+Key Insight:
 This proves the dashboard’s dynamic capability — allowing business users to:
 Analyze seasonal performance
 Compare mid-year trends
