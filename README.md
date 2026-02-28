@@ -39,11 +39,8 @@ The dataset is available here.
 https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z
 
 # Output Screenshots
-
 1️⃣ Overall Sales Dashboard (Full Year Overview)
-
 <img width="1287" height="710" alt="Screenshot 2026-02-27 084505" src="https://github.com/user-attachments/assets/f79ec3cf-cf5f-48cd-8ba1-3e790b2cbd25" />
-
 This dashboard provides a comprehensive overview of pizza sales performance from January 2015 to December 2015.
 
 🔎 Key Insights Displayed:
