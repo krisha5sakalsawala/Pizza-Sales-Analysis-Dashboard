@@ -50,9 +50,9 @@ Total Orders: 35,281
 Total Pizzas Sold: 15,197
 Average Pizzas per Order: 2.32
 
-Visual Analysis Included:
-Daily trend of total orders (Highest on Friday & Saturday evenings)
-Monthly sales trend (Peak performance in July & January)
+Visual Analysis Included:  
+Daily trend of total orders (Highest on Friday & Saturday evenings)  
+Monthly sales trend (Peak performance in July & January)  
 
 Percentage sales by:
 Pizza Category (Classic, Supreme, Chicken, Veggie)
