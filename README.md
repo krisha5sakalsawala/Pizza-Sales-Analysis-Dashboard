@@ -43,13 +43,6 @@ Use Power BI to connect to the SQL database and visualize the results.
 <img width="1287" height="710" alt="Screenshot 2026-02-27 084505" src="https://github.com/user-attachments/assets/f79ec3cf-cf5f-48cd-8ba1-3e790b2cbd25" />
 This dashboard provides a comprehensive overview of pizza sales performance from January 2015 to December 2015.
 
-Key Insights Displayed.  
-Total Revenue: 581.91K  
-Average Order Value: 38.29  
-Total Orders: 35,281  
-Total Pizzas Sold: 15,197  
-Average Pizzas per Order: 2.32  
-
 Visual Analysis Included:  
 Daily trend of total orders (Highest on Friday & Saturday evenings)  
 Monthly sales trend (Peak performance in July & January)  
@@ -58,6 +51,13 @@ Percentage sales by:
 Pizza Category (Classic, Supreme, Chicken, Veggie)  
 Pizza Size (Large contributes highest revenue)  
 Total pizzas sold by category  
+
+Key Insights.  
+Total Revenue: 581.91K  
+Average Order Value: 38.29  
+Total Orders: 35,281  
+Total Pizzas Sold: 15,197  
+Average Pizzas per Order: 2.32  
 
 This dashboard helps identify peak sales periods, customer ordering behavior, and category-level performance.
 
@@ -72,7 +72,7 @@ Sales contribution by category (donut chart)
 Sales contribution by pizza size  
 Total pizzas sold by category
 
-Key Observations:  
+Key Insight:  
 Classic category contributes highest overall sales  
 Large size pizzas dominate revenue share  
 Weekend evenings generate peak orders  
