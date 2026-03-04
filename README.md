@@ -39,7 +39,7 @@ The dataset is available here.
 https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z
 
 # Output Screenshots
-1️⃣ Overall Sales Dashboard (Full Year Overview)
+1️ Overall Sales Dashboard (Full Year Overview)
 <img width="1287" height="710" alt="Screenshot 2026-02-27 084505" src="https://github.com/user-attachments/assets/f79ec3cf-cf5f-48cd-8ba1-3e790b2cbd25" />
 This dashboard provides a comprehensive overview of pizza sales performance from January 2015 to December 2015.
 
@@ -61,10 +61,8 @@ Total pizzas sold by category
 
 This dashboard helps identify peak sales periods, customer ordering behavior, and category-level performance.
 
-2️⃣ Filtered Performance & Sales Distribution View
-
+2️ Filtered Performance & Sales Distribution View
 <img width="1321" height="731" alt="Screenshot 2026-02-27 085929" src="https://github.com/user-attachments/assets/af87021b-a81e-4412-aa9f-e6b769215626" />
-
 This dashboard highlights sales insights for a selected period (March–December 2015).
 
 Includes:
@@ -81,10 +79,8 @@ Weekend evenings generate peak orders
 
 This view helps stakeholders understand both macro-level and micro-level sales distribution patterns.
 
-3️⃣ Best & Worst Sellers – Classic Category (Filtered View)
-
+3️ Best & Worst Sellers – Classic Category (Filtered View)
 <img width="1344" height="732" alt="Screenshot 2026-02-27 085646" src="https://github.com/user-attachments/assets/390c23da-bbac-415c-9ba5-a3323e088882" />
-
 This view demonstrates interactive filtering by selecting the Classic Pizza Category and a specific date range.
 
 Top 5 Analysis:
@@ -104,11 +100,8 @@ Underperforming pizzas
 Revenue-driving menu items
 It supports data-driven menu optimization decisions.
 
-
-4️⃣ Best & Worst Sellers – Custom Date Range Analysis
-
+4 Best & Worst Sellers – Custom Date Range Analysis
 <img width="1348" height="734" alt="Screenshot 2026-02-27 085853" src="https://github.com/user-attachments/assets/8274f656-afe8-4dba-be99-f1fa1f9266b4" />
-
 This dashboard shows sales performance for a custom selected date range (May–July 2015).
 
 Features Demonstrated:
