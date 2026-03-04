@@ -28,6 +28,10 @@ Clear insights into the busiest days and months.
 Sales breakdown by pizza category (e.g., Classic, Supreme, Veggie) and size (e.g., Large, Medium).  
 A trend analysis of daily and monthly sales for strategic planning.  
 
+# Data Source  
+The dataset is available here.
+https://drive.google.com/drive/folders/17U0ah6Q4MJM_wIn_Xl4fHc-1fO6Q4s6z
+
 # How to Use  
 Clone the repository.  
 Import the provided raw data into a SQL database.  
