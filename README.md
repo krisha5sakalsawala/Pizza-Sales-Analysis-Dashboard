@@ -43,7 +43,7 @@ Use Power BI to connect to the SQL database and visualize the results.
 <img width="1287" height="710" alt="Screenshot 2026-02-27 084505" src="https://github.com/user-attachments/assets/f79ec3cf-cf5f-48cd-8ba1-3e790b2cbd25" />
 This dashboard provides a comprehensive overview of pizza sales performance from January 2015 to December 2015.
 
-Key Insights Displayed
+Key Insights Displayed.
 Total Revenue: 581.91K
 Average Order Value: 38.29
 Total Orders: 35,281
